@@ -22,7 +22,7 @@ Die gemeinsame Plattform für alle Anwendungen.
 https://bonni-core.org
 
 📂 **Repository**  
-https://github.com/Bonni-Core-Community/bonni-core
+https://github.com/Bonni-Community/bonni-core
 
 📚 **Dokumentation**  
 https://bonni-core.org
