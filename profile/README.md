@@ -1,47 +1,121 @@
-# Willkommen bei der Bonni Community 👋
+# 👋 Willkommen bei der Bonni Community
 
-Die Bonni Community entwickelt Software für Verein und weitere Organisationen.
+> **Software soll Menschen helfen, die anderen Menschen helfen.**
 
-Unsere Anwendungen bauen auf **Bonni Core** auf und können je nach Bedarf erweitert werden.
+Hallo! 👋
+
+Ich bin **Bonni**.
+
+Schön, dass du da bist.
+
+Hier findest du alle Projekte der Bonni Community – von der Plattform über Anwendungen bis hin zu Erweiterungen und Dokumentationen.
+
+Wonach suchst du heute?
 
 ---
 
-## Unsere Projekte
+# 🧩 Ich möchte Bonni kennenlernen
 
-🧩 Bonni Core  
+## Bonni Core
+
 Die gemeinsame Plattform für alle Anwendungen.
 
-🍺 StüberlApp  
+🌐 Webseite
+
+📂 Repository
+
+📚 Dokumentation
+
+---
+
+# 📦 Ich suche eine Anwendung
+
+🍺 StüberlApp
+
 Organisation und Verkauf für Vereinsheime und Gastronomiebereiche.
 
-📅 HocketApp  
+🌐 Webseite
+
+📂 Repository
+
+---
+
+📅 HocketApp
+
 Planung und Organisation von Veranstaltungen.
 
-💰 KontorApp  
+🌐 Webseite
+
+📂 Repository
+
+---
+
+💰 KontorApp
+
 Finanz- und Verwaltungsanwendung.
 
+🌐 Webseite
+
+📂 Repository
+
 ---
 
-## Erweiterungen
+# ➕ Ich suche eine Erweiterung
 
-➕ Add-ons  
+## Add-ons
+
 Erweitern bestehende Anwendungen.
 
-🔌 Plugins  
+📂 Repository
+
+---
+
+## Plugins
+
 Erweitern Bonni Core oder Anwendungen um zusätzliche Funktionen und Geräteanbindungen.
 
----
-
-## Unsere Philosophie
-
-**Software soll Menschen helfen, die anderen Menschen helfen.**
-
-Organisationen sollen genau die Werkzeuge nutzen können, die sie benötigen nicht mehr und nicht weniger.
+📂 Repository
 
 ---
 
-## Bonni Community
+## Schnittstellen
 
-Bonni wird gemeinschaftlich weiterentwickelt.
+Verbinden Bonni Core mit externen Programmen und Diensten.
 
-Ideen, Rückmeldungen und Verbesserungen helfen dabei, Bonni kontinuierlich auszubauen und weiterzuentwickeln.
+📂 Repository
+
+---
+
+# 📚 Ich möchte etwas nachlesen
+
+Alle Projekte besitzen eine eigene Dokumentation.
+
+Zusätzlich findest du viele Informationen in **Bonnis Bibliothek**.
+
+📚 Dokumentation
+
+---
+
+# 💬 Ich möchte Teil der Community werden
+
+Bonni lebt von seiner Community.
+
+Jede Idee, jede Rückmeldung und jede Unterstützung hilft dabei, Bonni weiterzuentwickeln.
+
+🌐 Webseite
+
+💬 Discord
+
+🐞 Fehler melden
+
+💡 Ideen einreichen
+
+---
+
+# ❤️ Unsere Philosophie
+
+Bonni verfolgt einen modularen Ansatz.
+
+Organisationen sollen genau die Werkzeuge nutzen können, die sie benötigen – **nicht mehr und nicht weniger**.
+
+Denn gute Software wächst gemeinsam mit ihren Anwendern.
