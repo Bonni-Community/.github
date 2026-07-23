@@ -8,73 +8,74 @@ Ich bin **Bonni**.
 
 Schön, dass du da bist.
 
-Hier findest du alle Projekte der Bonni Community – von der Plattform über Anwendungen bis hin zu Erweiterungen und Dokumentationen.
+Die Bonni Community entwickelt Anwendungen für Vereine, das Ehrenamt und weitere Organisationen.
 
-Wonach suchst du heute?
+Bonni Core bildet dabei die gemeinsame Grundlage für alle Anwendungen.
 
 ---
 
-# 🧩 Ich möchte Bonni kennenlernen
-
-## Bonni Core
+# 🧩 Bonni Core
 
 Die gemeinsame Plattform für alle Anwendungen.
 
-🌐 Webseite
+🌐 **Webseite**  
+https://bonni-core.org
 
-📂 Repository
+📂 **Repository**  
+https://github.com/Bonni-Core-Community/bonni-core
 
-📚 Dokumentation
+📚 **Dokumentation**  
+https://bonni-core.org
 
 ---
 
-# 📦 Ich suche eine Anwendung
+# 📦 Anwendungen
 
-🍺 StüberlApp
+## 🍺 StüberlApp
 
 Organisation und Verkauf für Vereinsheime und Gastronomiebereiche.
 
-🌐 Webseite
+🌐 Webseite *(folgt)*
 
-📂 Repository
+📂 Repository *(folgt)*
 
 ---
 
-📅 HocketApp
+## 📅 HocketApp
 
 Planung und Organisation von Veranstaltungen.
 
-🌐 Webseite
+🌐 Webseite *(folgt)*
 
-📂 Repository
+📂 Repository *(folgt)*
 
 ---
 
-💰 KontorApp
+## 💰 KontorApp
 
 Finanz- und Verwaltungsanwendung.
 
-🌐 Webseite
+🌐 Webseite *(folgt)*
 
-📂 Repository
+📂 Repository *(folgt)*
 
 ---
 
-# ➕ Ich suche eine Erweiterung
+# ➕ Erweiterungen
 
 ## Add-ons
 
-Erweitern bestehende Anwendungen.
+Erweitern bestehende Anwendungen um zusätzliche Funktionen.
 
-📂 Repository
+➡️ https://github.com/Bonni-Core-Community/addons
 
 ---
 
 ## Plugins
 
-Erweitern Bonni Core oder Anwendungen um zusätzliche Funktionen und Geräteanbindungen.
+Erweitern Bonni Core oder Anwendungen um Geräte- und Systemanbindungen.
 
-📂 Repository
+➡️ https://github.com/Bonni-Core-Community/plugins
 
 ---
 
@@ -82,33 +83,29 @@ Erweitern Bonni Core oder Anwendungen um zusätzliche Funktionen und Geräteanbi
 
 Verbinden Bonni Core mit externen Programmen und Diensten.
 
-📂 Repository
+➡️ https://github.com/Bonni-Core-Community/interfaces
 
 ---
 
-# 📚 Ich möchte etwas nachlesen
+# 📚 Dokumentation
 
-Alle Projekte besitzen eine eigene Dokumentation.
+Jedes Projekt besitzt eine eigene Dokumentation.
 
 Zusätzlich findest du viele Informationen in **Bonnis Bibliothek**.
 
-📚 Dokumentation
-
 ---
 
-# 💬 Ich möchte Teil der Community werden
+# 💬 Community
 
-Bonni lebt von seiner Community.
+Du möchtest Fragen stellen, Ideen austauschen oder Bonni mitgestalten?
 
-Jede Idee, jede Rückmeldung und jede Unterstützung hilft dabei, Bonni weiterzuentwickeln.
+🌐 **Webseite**
 
-🌐 Webseite
+https://bonni-core.org
 
-💬 Discord
+💬 **Discord**
 
-🐞 Fehler melden
-
-💡 Ideen einreichen
+https://discord.gg/kWDMuCdBE
 
 ---
 
@@ -118,4 +115,14 @@ Bonni verfolgt einen modularen Ansatz.
 
 Organisationen sollen genau die Werkzeuge nutzen können, die sie benötigen – **nicht mehr und nicht weniger**.
 
-Denn gute Software wächst gemeinsam mit ihren Anwendern.
+Dadurch bleibt Bonni übersichtlich, flexibel und wächst gemeinsam mit den Anforderungen einer Organisation.
+
+---
+
+# 🚀 Mitmachen
+
+Jede Idee, jede Rückmeldung und jede Unterstützung hilft dabei, Bonni weiterzuentwickeln.
+
+Egal ob Entwickler, Designer, Tester, Dokumentationsautor oder Anwender – jeder ist herzlich willkommen.
+
+**Gemeinsam gestalten wir die Zukunft von Bonni.**
