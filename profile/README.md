@@ -1,6 +1,6 @@
 # Willkommen bei der Bonni Community 👋
 
-Die Bonni Community entwickelt Software für Vereine, das Ehrenamt und weitere Organisationen.
+Die Bonni Community entwickelt Software für Verein und weitere Organisationen.
 
 Unsere Anwendungen bauen auf **Bonni Core** auf und können je nach Bedarf erweitert werden.
 
