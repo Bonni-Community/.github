@@ -8,7 +8,7 @@ Ich bin **Bonni**.
 
 Schön, dass du da bist.
 
-Die Bonni Community entwickelt Anwendungen für Vereine, das Ehrenamt und weitere Organisationen.
+Die Bonni Community entwickelt Anwendungen für Vereine und weitere Organisationen.
 
 Bonni Core bildet dabei die gemeinsame Grundlage für alle Anwendungen.
 
