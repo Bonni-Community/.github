@@ -67,7 +67,7 @@ Finanz- und Verwaltungsanwendung.
 
 Erweitern bestehende Anwendungen um zusätzliche Funktionen.
 
-➡️ https://github.com/Bonni-Core-Community/Add-ons
+➡️ https://github.com/Bonni-Community/Add-ons
 
 ---
 
@@ -75,7 +75,7 @@ Erweitern bestehende Anwendungen um zusätzliche Funktionen.
 
 Erweitern Bonni Core oder Anwendungen um Geräte- und Systemanbindungen.
 
-➡️ https://github.com/Bonni-Core-Community/Plug-ins
+➡️ https://github.com/Bonni-Community/Plug-ins
 
 ---
 
@@ -83,7 +83,7 @@ Erweitern Bonni Core oder Anwendungen um Geräte- und Systemanbindungen.
 
 Verbinden Bonni Core mit externen Programmen und Diensten.
 
-➡️ https://github.com/Bonni-Core-Community/Interfaces
+➡️ https://github.com/Bonni-Community/Interfaces
 
 ---
 
