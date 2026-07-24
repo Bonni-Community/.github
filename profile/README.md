@@ -13,22 +13,18 @@ Die Bonni Community entwickelt Anwendungen für Vereine und weitere Organisation
 Bonni Core bildet dabei die gemeinsame Grundlage für alle Anwendungen.
 
 ---
+# 🧩 Bonni Core
+
 [![Website](https://img.shields.io/badge/Website-bonni--core.org-0366d6)](https://bonni-core.org)  [![Discord](https://img.shields.io/badge/Discord-Community-5865F2)](https://discord.gg/kWDMuCdBE)
 [![Documentation](https://img.shields.io/badge/Documentation-Bonnis%20Bibliothek-6f42c1)](https://bonni-core.org)  [![License](https://img.shields.io/badge/License-BCL%20v1.0-orange)](https://github.com/Bonni-Community/bonni-core/blob/main/LICENSE.md)
 
-
-# 🧩 Bonni Core
-
 Die gemeinsame Plattform für alle Anwendungen.
 
-🌐 **Webseite**  
-https://bonni-core.org
+🌐 **[Webseite](https://bonni-core.org)**
 
-📂 **Repository**  
-https://github.com/Bonni-Community/bonni-core
+💬 **[Discord](https://discord.gg/kWDMuCdBE)**
 
-📚 **Dokumentation**  
-https://bonni-core.org
+📚 **[Dokumentation](https://bonni-core.org)**
 
 ---
 
