@@ -13,6 +13,11 @@ Die Bonni Community entwickelt Anwendungen für Vereine und weitere Organisation
 Bonni Core bildet dabei die gemeinsame Grundlage für alle Anwendungen.
 
 ---
+![Version](https://img.shields.io/badge/version-v0.1.0-blue)
+![Type](https://img.shields.io/badge/type-Core-blue)
+![License](https://img.shields.io/badge/license-BCL%20v1.0-blue)
+![Docs](https://img.shields.io/badge/docs-available-brightgreen)
+
 
 # 🧩 Bonni Core
 
